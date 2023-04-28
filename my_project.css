@@ -1,0 +1,45 @@
+.large{
+    color:rgb(1, 84, 59);
+    
+    background-color: rgb(189, 18, 115);
+    margin-left: 30px;
+}
+.small{
+    color:blue;
+
+    background-color: rgb(235, 96, 119);
+    margin-left:130px ;
+}
+.medium{
+    color:brown;
+    margin-left:230px;
+    background-color: rgb(236, 161, 173);
+}
+.web{
+    color:yellow;
+    margin-left: 330px;
+    background-color: rgb(255, 204, 233);
+}
+/* input:checked{
+    width:50px;
+    height: 15px;
+    color:black;
+}
+body{
+    background-color: peru ;
+}
+p::before{
+    content:"→ "
+    
+
+}
+
+/* {
+   content: '';
+   display: block;
+   width: 32px;
+height: 32px;
+border-radius: 50%;
+background-color: peachpuff;
+margin: 8px;
+} */ 
