@@ -8,7 +8,7 @@ h2{
 }
 main{
     background-color:peachpuff;
-    padding: 2rem;
+    padding: 2rem; 
 }
 p {
     font-size:1.12rem;
@@ -28,10 +28,10 @@ a{
     text-decoration-thickness: 2px;
 
 }
-span:hover {
+/* span:hover {
     text-decoration-line: underline;
-    text-decoration-color: rgb(84, 2, 77);
-}
+    text-decoration-color: rgb(84, 2, 77); */
+/* } */
 header {
     background-color: rgb(86, 13, 70);
     padding: 1rem;
@@ -44,15 +44,27 @@ em{
     text-decoration: none;
     font-size: 1.5rem;
 }
-footer{
+/* footer{
     background-color: rgb(153, 42, 19);
     font-size: 1.12rem;
     font-family:'Montserrat', sans-serif ;
     text-decoration-color: grey;
     padding: 1em;
-    color:rgb(0, 190, 140);
+    color:rgb(0, 190, 140); */
+/* } */
+.fa:hover{
+    opacity:1.0;
 }
+.fa{
+    text-align:end;
+
+}
+
 /* .box{
     border-style: dotted solid dashed solid;
     margin:10px 20px 30px 40px;
 } */
+span{
+    position: absolute;
+    left:80%;
+}
