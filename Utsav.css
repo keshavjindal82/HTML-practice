@@ -31,6 +31,62 @@ em{
 .button{
     cursor:pointer;
 }
+.box1{
+    height: 14.5em;
+    width: 15em;
+    background-color: white;
+    padding: 1rem;
+    position: absolute;
+    top:38.5%;
+}
+.box2{
+    height: 14.5em;
+    width: 15em;
+    background-color: white;
+    padding: 1rem; 
+    position: absolute;
+    left:35%;
+    top:38.5%;
+    
+}
+.box3{
+    height: 14.5em;
+    width: 15em;
+    background-color: white;
+    padding: 1rem; 
+    position: absolute;
+    left:69%;
+    top:38.5%;
+}
+.box4{
+    height: 14.5em;
+    width: 15em;
+    background-color: white;
+    padding: 1rem; 
+    position: absolute;
+    top:35em;
+
+}
+.box5{
+    height: 14.5em;
+    width: 15em;
+    background-color: white;
+    padding: 1rem; 
+    position: absolute;
+    left:35%;
+    top:35em;
+}
+.box6{
+    height: 14.5em;
+    width: 15em;
+    background-color:white;
+    padding: 1rem; 
+    position: absolute;
+    left:69%;
+    top:35em;
+    /* margin-top: 2em; */
+
+}
 /* main{
     
 } */
