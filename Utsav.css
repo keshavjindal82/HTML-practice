@@ -19,6 +19,20 @@ em{
     position: absolute;
     left:85%;
 }
+.mail{
+    margin-left: 50em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.search{
+    margin-left: 2em;
+    padding-left: auto;
+}
+.menu{
+    padding-left: auto;
+}
 .fa{
     text-align:end;
     size:1em;
@@ -37,7 +51,8 @@ em{
     background-color: white;
     padding: 1rem;
     position: absolute;
-    top:38.5%;
+    top:15em;
+    left:5em;
 }
 .box2{
     height: 14.5em;
@@ -45,8 +60,8 @@ em{
     background-color: white;
     padding: 1rem; 
     position: absolute;
-    left:35%;
-    top:38.5%;
+    left:33em;
+    top:15em;
     
 }
 .box3{
@@ -55,8 +70,8 @@ em{
     background-color: white;
     padding: 1rem; 
     position: absolute;
-    left:69%;
-    top:38.5%;
+    left:60em;
+    top:15em;
 }
 .box4{
     height: 14.5em;
@@ -64,7 +79,8 @@ em{
     background-color: white;
     padding: 1rem; 
     position: absolute;
-    top:35em;
+    top:40em;
+    left:5em;
 
 }
 .box5{
@@ -73,8 +89,8 @@ em{
     background-color: white;
     padding: 1rem; 
     position: absolute;
-    left:35%;
-    top:35em;
+    left:33em;
+    top:40em;
 }
 .box6{
     height: 14.5em;
@@ -82,8 +98,8 @@ em{
     background-color:white;
     padding: 1rem; 
     position: absolute;
-    left:69%;
-    top:35em;
+    left:60em;
+    top:40em;
     /* margin-top: 2em; */
 
 }
