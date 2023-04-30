@@ -17,8 +17,10 @@ p {
     margin-left: 2em;
 
 }
-section{
-    padding: 1rem;
+i{
+    font-size:1.12rem;
+    font-family:'Montserrat', sans-serif;
+    text-decoration: none;
 }
 a{
     text-decoration: none;
@@ -40,6 +42,7 @@ header {
     color:rgb(209, 231, 211);
 
 }
+
 em{
     text-decoration: none;
     font-size: 1.5rem;
@@ -66,5 +69,5 @@ em{
 } */
 span{
     position: absolute;
-    left:80%;
+    left:70em;
 }
