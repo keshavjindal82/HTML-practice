@@ -1,4 +1,40 @@
-html , body {
+header{
+    text-align: center;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 2em;
+    text-decoration: underline;
+    padding-top: 0.2em;
+}
+h6{
+    text-align: center;
+    font-size: 0.83em;
+    margin-top: 0.01em;
+    font-family:'Laila', sans-serif;
+    padding-bottom: 0.5em;
+}
+body{
+    background-color: peachpuff;
+}
+em{
+    position: absolute;
+    left:85%;
+}
+.fa{
+    text-align:end;
+    size:1em;
+    text-decoration: none;
+    color:black
+}
+.fa:hover{
+    opacity:1.0;
+}
+.button{
+    cursor:pointer;
+}
+/* main{
+    
+
+} */html , body {
     height:100%;
 }
 div{
@@ -112,4 +148,5 @@ a{
 }
 /* main{
     
+
 } */
